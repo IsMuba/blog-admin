@@ -25,8 +25,8 @@
 
 ## 开源地址
 
-- 博客服务端：[gitee](https://gitee.com/ismuba/blog-express.git)
-- 博客前台：[gitee](https://gitee.com/ismuba/blog-web.git)
+- 博客服务端：[github](https://github.com/ismuba/blog-express.git)、[gitee](https://gitee.com/ismuba/blog-express.git)
+- 博客前台：[github](https://github.com/ismuba/blog-web.git)、[gitee](https://gitee.com/ismuba/blog-web.git)
 - 效果预览：[沐爸的官方网站](http://blog.muba888.cn/#/home)
 - 接口地址：[https://doc.apipost.net/docs/detail/2e6803128c64000?target_id=0](https://doc.apipost.net/docs/detail/2e6803128c64000?target_id=0)
 
